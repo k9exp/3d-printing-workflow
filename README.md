@@ -23,3 +23,11 @@ Tools used:
 OpenSCAD Cheatsheet [here](https://openscad.org/cheatsheet/)
 
 #### Images
+
+![openscad](https://github.com/user-attachments/assets/018a7340-c7e6-4b62-a1c5-d311f01efbf5)
+
+
+![slicer](https://github.com/user-attachments/assets/0c7684fd-f2f9-42db-b681-e022a83b3670)
+
+
+![simulate](https://github.com/user-attachments/assets/2e3c9f7d-7f44-4c61-b02b-a8e7c4c7421a)
