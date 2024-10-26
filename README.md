@@ -1,4 +1,6 @@
-### Experimenting with 3D Models
+### Experimenting with 3D Models for 3D printing
+
+> I dont have 3D printer yet, but its the last step. I am just enjoing the (n - 1) steps.
 
 Tools used:
 
