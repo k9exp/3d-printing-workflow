@@ -15,4 +15,8 @@ Tools used:
 5a. Import `.gcode` file into `gcodetutor` for simulating
 5b. Send this `.gcode` to 3D printer and wait.
 
+### Mics
+
+OpenSCAD Cheatsheet [here](https://openscad.org/cheatsheet/)
+
 #### Images
