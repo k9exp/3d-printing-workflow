@@ -7,6 +7,7 @@ Tools used:
 - [OpenSCAD](https://openscad.org/) - An Script/Programming Based CAD Software
 - [Slic3r](https://slic3r.org/) - A 3D model Slicer
 - [gcodetutor](https://gcodetutor.com/cnc-program-simulator.html) - A `g code` simulator
+- 3D Printer... TODO
 
 ## Workflow
 
