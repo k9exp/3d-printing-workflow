@@ -14,9 +14,9 @@ Tools used:
 1. Create a 3D model in `openscad`
 2. Export `.stl` file
 3. Import `.stl` file into `Slic3r` and create a 3D printer instructions
-4. Export `.gcode` file from Slic3r,
-5a. Import `.gcode` file into `gcodetutor` for simulating
-5b. Send this `.gcode` to 3D printer and wait.
+4. Export `.gcode` file from Slic3r
+5. Import `.gcode` file into `gcodetutor` for simulating
+6. Send this `.gcode` to 3D printer and wait.
 
 ### Mics
 
